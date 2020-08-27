@@ -15,14 +15,6 @@ repositories:
     type: git
     url: https://github.com/yumi-crew/kdl_wrapper.git
     version: master
-  pose_estimation:
-    type: git
-    url: https://github.com/yumi-crew/pose_estimation.git
-    version: master
-  zivid_ros:
-    type: git
-    url: https://github.com/yumi-crew/zivid-ros.git
-    version: eloquent
   moveit2_wrapper:
     type: git
     url: https://github.com/yumi-crew/moveit2_wrapper.git
